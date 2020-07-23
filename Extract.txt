@@ -1,0 +1,96 @@
+1/13/2020
+
+Details for PO
+
+Order Status Shipping Method PO No.
+Request No. Order No.
+Customer ID Order Date Created By
+
+Shipping Address
+
+48 Westchester Sq Bronx, New York, 10461 United States
+
+My Account Order Details
+
+No. 010220-WESTCHESTER
+
+Completed
+
+1 DAY AM 010220-WESTCHESTER E00000901651 SO32369882 229627 01/02/20, 12:22:00 pm Joel Ferreiras
+
+Bill-to Address
+
+Mobile City NY, LLC
+
+606 9th Avenue New York, New York, 10036 United States
+
+ore than one item, please note that some items may display a different shipping method
+
+Below are details about the item(s) in your order.
+If you ordered m and/or status because they are shipped in a separate package.
+
+Order Summary
+
+STATUS ITEM
+
+Shipped OBR PST 4 - IN - 1 BYOD SIM KIT Item No: 760492044707
+
+QTY SHIP QTY PRICE SUBTOTAL
+
+10
+
+10 $5.14
+
+$51.40
+
+https://businesscenter.brightstar.com/INTERSHOP/web/WFS/BrightstarUS-Dealer-Site/en_US/bstar-webshop-dealer/USD/ViewData-Start/827527546… 1/2
+
+1/13/2020
+
+STATUS ITEM
+
+Shipped Apple iPhone 11 64GB - Red Item No: 190199220195
+
+Total quantity: 13
+
+Shipments/Serial Numbers
+
+SHIP DATE
+
+TRACKING #
+
+My Account Order Details
+
+QTY SHIP QTY PRICE SUBTOTAL
+
+3
+
+3
+
+$699.99 $2,099.97
+
+Subtotal
+
+$2,151.37
+
+Shipping
+
+$25.68
+
+Payment Costs
+
+$0.00
+
+Sales Tax
+
+$0.00
+
+Total Cost
+
+$2,177.05
+
+SHIP QTY
+
+SHIPPING METHOD
+
+https://businesscenter.brightstar.com/INTERSHOP/web/WFS/BrightstarUS-Dealer-Site/en_US/bstar-webshop-dealer/USD/ViewData-Start/827527546… 2/2
