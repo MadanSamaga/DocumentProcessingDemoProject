@@ -11,6 +11,7 @@
     "UiPath.OmniPage.Bundle": "[1.0.2]",
     "UiPath.OmniPage.Bundle.Extended": "[1.0.0]",
     "UiPath.System.Activities": "[20.4.0]",
+    "UiPath.Terminal.Activities": "[1.3.4]",
     "UiPath.UIAutomation.Activities": "[20.4.1]"
   },
   "webServices": [],
